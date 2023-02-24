@@ -40,7 +40,7 @@ const board = {
     },
     {
       id: 3,
-      title: "Ready To Rivew",
+      title: "Ready To Review",
       cards: [
         {
           id: 10,
